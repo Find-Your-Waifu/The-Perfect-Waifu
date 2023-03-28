@@ -20,18 +20,3 @@
 //Brugbarhed
 //-- Rengøring = int
 //-- Madlavning = int
-
-
-
-void setup(){
-  
-  
-  
-}
-
-
-void draw(){
-  
-  
-  
-}
