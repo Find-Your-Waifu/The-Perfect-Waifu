@@ -18,6 +18,7 @@ void setup() {
   // img5 = loadImage("Programmering billeder/Kyouko.png");
 }
 
+
 void statsVisning() {
   textSize (50);
   fill(25, 25, 25);
